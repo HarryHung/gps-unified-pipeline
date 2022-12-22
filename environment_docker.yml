@@ -1,0 +1,28 @@
+name: base
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+  - r
+dependencies:
+  - seroba=1.0.2
+  - fastp=0.23.2
+  - quast=5.2.0
+  - ariba=2.14.6
+  - bcftools=1.12
+  - biopython=1.77
+  - kmc=3.1.0
+  - tbb=2021.7.0
+  - mummer=3.23
+  - nextflow=22.10
+  - git=2.38.1
+  - jq=1.6
+  - bc=1.07.1
+  - kraken2=2.1.2
+  - bwa=0.7.17
+  - samtools=1.12
+  - perl=5.32.1
+  - mlst=2.23.0
+  - shovill=1.1.0
+  - unicycler=0.5.0
+  - spades=3.15.5
